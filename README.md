@@ -13,3 +13,13 @@ Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### Config
+
+The following env vars will need to be set in a `.env` file for this example to run.
+
+```bash
+REACT_APP_API_BASE_URL
+REACT_APP_API_PATH_PREFIX
+REACT_APP_DAPP_CONTRACT_ADDRESS
+```
