@@ -36,7 +36,7 @@ package [procaptcha-react](https://github.com/prosopo-io/procaptcha-react).
 
 ## How to run locally
 
-#### 1. Copy the env.demo file
+#### 1. Copy the env.development file
 
 Copy the file `env.development` to `.env.development` in the root directory.
 
