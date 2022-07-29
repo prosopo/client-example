@@ -61,11 +61,13 @@ Send some funds from one of the test accounts (Alice etc.) to your test account.
 
 ![Send funds](assets/img-send-funds.png)
 
-In the project directory, you can run:
+
 
 #### 3. Start the app
 
-Run `npm start` in a terminal window.
+In the project directory, you can run:
+
+`npm start`
 
 This runs the app in the development mode. Open [http://localhost:3001](http://localhost:3001) to view it in the
 browser.
