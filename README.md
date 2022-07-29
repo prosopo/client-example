@@ -55,7 +55,7 @@ installed a wallet, create an account.
 Go to [polkadot apps](https://polkadot.js.org/apps/?rpc=ws%3A%2F%2F127.0.0.1%3A9944#/accounts) and select the
 development endpoint (`ws://localhost:9944`).
 
-![Select endpoint](img-endpoint.png)
+![Select endpoint](assets/img-endpoint.png)
 
 Send some funds from one of the test accounts (Alice etc.) to your test account.
 
