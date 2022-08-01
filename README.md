@@ -26,7 +26,7 @@ these variables will be as follows:
 ```bash
 REACT_APP_API_BASE_URL=http://localhost:3000
 REACT_APP_API_PATH_PREFIX=/v1/prosopo
-REACT_APP_DAPP_CONTRACT_ADDRESS=5Go2hCf1WHzKqt1HGCUwhKfUS85477HUHgvaKkMJRYBfyiUP
+REACT_APP_DAPP_CONTRACT_ADDRESS=5HFcsBEeQD61Ao6dD8e2efbjHQreBBzkayehLPZt9H3P83e6
 ```
 
 ## Implementation
